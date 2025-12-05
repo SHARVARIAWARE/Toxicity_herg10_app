@@ -1,0 +1,8 @@
+streamlit
+tensorflow
+numpy
+pandas
+joblib
+rdkit-pypi
+mordred
+Pillow
